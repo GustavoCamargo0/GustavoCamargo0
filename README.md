@@ -43,7 +43,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoCamargo0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
-
+---
 ### 🌐 Onde me encontrar
 
 <p align="center">
