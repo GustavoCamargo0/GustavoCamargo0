@@ -38,10 +38,19 @@
 </p>
 
 ---
+### 🏅 Troféus do GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoCamargo0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
+
+---
+### 🚀 Projetos em destaque
+
+- 🛒 [**App de Cardápio com Supabase**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Aplicativo em React Native integrado ao Supabase.
+- 📱 [**Aplicativo de Finanças Pessoais**](https://github.com/GustavoCamargo0/seu-projeto2) — Gerencie despesas com gráficos e autenticação.
+- 🌐 [**Meu Portfólio Web**](https://github.com/GustavoCamargo0/seu-portfolio) — Desenvolvido com HTML, CSS e JavaScript puro.
+
 
 ---
 ### 🌐 Onde me encontrar
