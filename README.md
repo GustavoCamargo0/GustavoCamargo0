@@ -56,6 +56,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Aprendendo%20React%20Native-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-blue?style=for-the-badge" />
+</p>
+
+---
 
 
 <!-- Rodapé animado -->
