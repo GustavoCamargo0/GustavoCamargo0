@@ -47,8 +47,8 @@
 ---
 ### 🚀 Projetos em destaque
 
-- 🛒 [**Jogo Estilo Space Invaders**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Aplicativo em React Native integrado ao Supabase.
-- 📱 [**Pokédex**](https://github.com/GustavoCamargo0/seu-projeto2) — Gerencie despesas com gráficos e autenticação.
+- 🛒 [**Cosmic Battle**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Jogo Estilo Space invaders
+- 📱 [**Pokédex**](https://github.com/GustavoCamargo0/Pokedex) — Pokédex para pesquisa de pokemons com API
 - 🌐 [**Meu Portfólio Web**](https://github.com/GustavoCamargo0/seu-portfolio) — Desenvolvido com HTML, CSS e JavaScript puro.
 
 
