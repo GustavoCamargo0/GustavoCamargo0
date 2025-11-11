@@ -1,4 +1,5 @@
-<h1 align="center">👋 Olá, eu sou o Gustavo Camargo!</h1>
+<!-- Banner topo -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:8a2be2&height=180&section=header&text=Gustavo%20Camargo%20👨‍💻&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
   🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI</strong><br>
@@ -54,3 +55,6 @@
 <p align="center">
   ✨ "O aprendizado é infinito — cada linha de código é uma oportunidade para evoluir." ✨
 </p>
+
+<!-- Rodapé animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00bfff&height=120&section=footer"/>
