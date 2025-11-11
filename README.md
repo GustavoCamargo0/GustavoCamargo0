@@ -57,9 +57,9 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20React%20Native-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-blue?style=for-the-badge" />
+  <img src="https://streak-stats.demolab.com?user=GustavoCamargo0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
+
 
 ---
 
