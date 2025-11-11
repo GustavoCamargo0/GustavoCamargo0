@@ -47,8 +47,8 @@
 ---
 ### 🚀 Projetos em destaque
 
-- 🛒 [**App de Cardápio com Supabase**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Aplicativo em React Native integrado ao Supabase.
-- 📱 [**Aplicativo de Finanças Pessoais**](https://github.com/GustavoCamargo0/seu-projeto2) — Gerencie despesas com gráficos e autenticação.
+- 🛒 [**Jogo Estilo Space Invaders**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Aplicativo em React Native integrado ao Supabase.
+- 📱 [**Pokédex**](https://github.com/GustavoCamargo0/seu-projeto2) — Gerencie despesas com gráficos e autenticação.
 - 🌐 [**Meu Portfólio Web**](https://github.com/GustavoCamargo0/seu-portfolio) — Desenvolvido com HTML, CSS e JavaScript puro.
 
 
@@ -68,7 +68,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GustavoCamargo0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
-
 
 ---
 
