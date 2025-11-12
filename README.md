@@ -47,9 +47,9 @@
 ---
 ### 🚀 Projetos em destaque
 
-- 🛒 [**Cosmic Battle**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Jogo Estilo Space invaders
-- 📱 [**Pokédex**](https://github.com/GustavoCamargo0/Pokedex) — Pokédex para pesquisa de pokemons com API
-- 🌐 [**Meu Portfólio Web**](https://github.com/GustavoCamargo0/seu-portfolio) — Desenvolvido com HTML, CSS e JavaScript puro.
+- 🕹️ [**Cosmic Battle**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Jogo Estilo Space invaders
+- 📱 [**AppMusic**](https://github.com/GustavoCamargo0/AppMusic) — App de Streaming de musicas
+- 🌐 [**AppTicketCantina**](https://github.com/GustavoCamargo0/AppTicketCantina) — Desenvolvido React Native, App de cantina de escola
 
 
 ---
