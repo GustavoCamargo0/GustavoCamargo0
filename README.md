@@ -49,7 +49,7 @@
 
 - 🕹️ [**Cosmic Battle**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Jogo Estilo Space invaders
 - 🎶 [**AppMusic**](https://github.com/GustavoCamargo0/AppMusic) — App de Streaming de musicas
-- 🌐 [**AppTicketCantina**](https://github.com/GustavoCamargo0/AppTicketCantina) — Desenvolvido React Native, App de cantina de escola
+- 🌐 [**AppTicketCantina**](https://github.com/GustavoCamargo0/AppTicketCantina) — Desenvolvido React Native, App de cantina de escola com banco de dados
 
 
 ---
