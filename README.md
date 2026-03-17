@@ -38,7 +38,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true" alt="Gráfico de actividad" />
 </p>
+### 🏆 Meus Troféus do GitHub
 
+<p align="center">
+  ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=GustavoCamargo0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+</p>
 ---
 ### 🚀 Projetos em destaque
 
