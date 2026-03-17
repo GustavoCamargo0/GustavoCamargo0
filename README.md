@@ -29,11 +29,16 @@
 </p>
 
 ---
-### 🏅 Troféus do GitHub
+### 📊 Estatisticas do GitHub
 
 <p align="center">
-  ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=GustavoCamargo0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCamargo0-c&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0-c&theme=tokyo-night&area=true" alt="Gráfico de actividad" />
+</p>
+
 ---
 ### 🚀 Projetos em destaque
 
