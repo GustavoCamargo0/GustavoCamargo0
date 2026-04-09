@@ -32,7 +32,7 @@
 ### 📊 Estatisticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCamargo0&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCamargo0&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Estatísticas de GitHub" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 - 🕹️ [**Cosmic Battle**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Jogo Estilo Space invaders
 - 🎶 [**AppMusic**](https://github.com/GustavoCamargo0/AppMusic) — App de Streaming de musicas
-- 🌐 [**AppTicketCantina**](https://github.com/GustavoCamargo0/AppTicketCantina) — Desenvolvido React Native, App de cantina de escola com banco de dados
+- 🌐 [**AppTicketCantina**](https://github.com/GustavoCamargo0/AppTicketCantina) — Desenvolvido em React Native, App de cantina de escola com banco de dados
 
 
 ---
