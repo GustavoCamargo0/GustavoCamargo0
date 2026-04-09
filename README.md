@@ -38,8 +38,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true" alt="Gráfico de actividad" />
 </p>
----
 
+---
 ### 🚀 Projetos em destaque
 
 - 🕹️ [**Cosmic Battle**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Jogo Estilo Space invaders
