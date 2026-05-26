@@ -67,11 +67,7 @@
 ---
 ### 📊 Estatisticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GustavoCamargo0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoCamargo0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true" alt="Gráfico de actividad" />
