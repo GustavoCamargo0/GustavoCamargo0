@@ -68,7 +68,9 @@
 ### 📊 Estatisticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoCamargo0&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=GustavoCamargo0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
 </p>
 
 <p align="center">
