@@ -32,60 +32,13 @@ Integração entre frontend, backend e serviços externos
 Desenvolvimento de soluções escaláveis e manuteníveis
 
 🛠️ Tech Stack
-💻 Languages
 <p> <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/> <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/> </p>
-🌐 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/> <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/> <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/> <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS"/> </p>
-📱 Mobile
 <p> <img src="https://skillicons.dev/icons?i=react" width="50" title="React Native"/> <img src="https://skillicons.dev/icons?i=expo" width="50" title="Expo"/> </p>
-⚙️ Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/> <img src="https://skillicons.dev/icons?i=express" width="50" title="Express"/> </p>
-🗄️ Database & Backend Services
 <p> <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=supabase" width="50" title="Supabase"/> </p>
-🧪 Testing, Tools & Workflow
 <p> <img src="https://skillicons.dev/icons?i=cypress" width="50" title="Cypress"/> <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/> </p>
 
-
-📌 Perfil Técnico
-name: Gustavo Camargo
-role: Full Stack Developer
-
-specialization:
-  - Web Development
-  - Mobile Development
-  - Backend Development
-  - REST APIs
-  - Database Integration
-  - Software Architecture
-  - Automated Testing
-
-frontend:
-  - JavaScript
-  - React
-  - HTML5
-  - CSS3
-  - Tailwind CSS
-
-mobile:
-  - React Native
-  - Expo
-
-backend:
-  - Node.js
-  - Express
-
-database:
-  - PostgreSQL
-  - Supabase
-
-testing:
-  - Cypress
-  - API Testing
-
-tools:
-  - Git
-  - GitHub
-  - Postman
 
 🚀 Projetos em Destaque
 <table> <tr> <td width="33%" valign="top">
@@ -104,29 +57,7 @@ Aplicação mobile desenvolvida para reprodução e gerenciamento de músicas, e
 Aplicação mobile voltada ao gerenciamento de pedidos em uma cantina escolar, trabalhando com fluxo de pedidos e organização de dados.
 
 <br> <a href="https://github.com/GustavoCamargo0/AppTicketCantina"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000"/> </a> </td> </tr> </table>
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph"/> </p>
-💡 Como eu trabalho
-Ideia / Requisito
-       ↓
-Análise da solução
-       ↓
-Arquitetura
-       ↓
-Desenvolvimento
-       ↓
-Integração Frontend + Backend
-       ↓
-Banco de Dados
-       ↓
-Testes
-       ↓
-Deploy
-       ↓
-Manutenção e evolução
 
-
-Busco desenvolver soluções pensando não apenas no funcionamento da aplicação, mas também em organização do código, experiência do usuário, escalabilidade e manutenção a longo prazo.
 
 🌐 Vamos nos conectar?
-<p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50" title="Gmail"/> </a> <a href="https://github.com/GustavoCamargo0" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> </a> </p>
+<p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50" title="Gmail"/> </a> <a href="https://github.com/GustavoCamargo0" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="50" title="LinkedIn"/> </a> </p>
