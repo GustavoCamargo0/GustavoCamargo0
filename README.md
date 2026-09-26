@@ -31,8 +31,9 @@ Integração entre frontend, backend e serviços externos
 
 Desenvolvimento de soluções escaláveis e manuteníveis
 
-🛠️ Tech Stack
-<p align="center">
+### 🛠️ Tech Stack
+
+<p>
   <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/>
   <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/>
@@ -54,6 +55,7 @@ Desenvolvimento de soluções escaláveis e manuteníveis
   <img src="https://skillicons.dev/icons?i=figma" width="50" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="50" title="Vercel"/>
 </p>
+
 
 
 
