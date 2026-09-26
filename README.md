@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center"> <strong>Full Stack Developer</strong> </p> <p align="center"> Desenvolvedor de software focado na criação de aplicações web e mobile, <br> APIs robustas, integração com bancos de dados e soluções escaláveis. </p> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <p align="center"> <strong>Full Stack Developer</strong> </p> <p align="center"> Desenvolvedor de software focado na criação de aplicações web e mobile, <br> APIs robustas, integração com bancos de dados e soluções escaláveis. </p> 
 👨‍💻 Sobre mim
 
 Sou Desenvolvedor Full Stack, com experiência no desenvolvimento de aplicações modernas para web e dispositivos móveis.
@@ -79,3 +79,11 @@ Aplicação mobile voltada ao gerenciamento de pedidos em uma cantina escolar, t
 
 🌐 Vamos nos conectar?
 <p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50" title="Gmail"/> </a> <a href="https://github.com/GustavoCamargo0" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="50" title="LinkedIn"/> </a> </p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=120&section=footer"
+    width="100%"
+  />
+</p>
+
