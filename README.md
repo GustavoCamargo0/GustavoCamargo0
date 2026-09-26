@@ -2,9 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo%20👨‍💻&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI</strong><br>
-  💻 Apaixonado por tecnologia, programação e por criar soluções que realmente fazem a diferença.<br>
-  🚀 Sempre aprendendo e explorando novas linguagens, frameworks e boas práticas de desenvolvimento.
+  - Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI</strong><br>
+  - Apaixonado por tecnologia, programação e por criar soluções que realmente fazem a diferença.<br>
+  - Sempre aprendendo e explorando novas linguagens, frameworks e boas práticas de desenvolvimento.
 </p>
 
 ---
@@ -62,13 +62,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" />
-</p>
-
----
-### 📊 Estatisticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true" alt="Gráfico de actividad" />
 </p>
 
 ---
