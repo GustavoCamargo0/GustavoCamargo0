@@ -32,12 +32,7 @@ Integração entre frontend, backend e serviços externos
 Desenvolvimento de soluções escaláveis e manuteníveis
 
 🛠️ Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/> <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/> </p>
-<p> <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/> <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/> <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/> <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS"/> </p>
-<p> <img src="https://skillicons.dev/icons?i=react" width="50" title="React Native"/> <img src="https://skillicons.dev/icons?i=expo" width="50" title="Expo"/> </p>
-<p> <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/> <img src="https://skillicons.dev/icons?i=express" width="50" title="Express"/> </p>
-<p> <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=supabase" width="50" title="Supabase"/> </p>
-<p> <img src="https://skillicons.dev/icons?i=cypress" width="50" title="Cypress"/> <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/> <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/> </p><p> <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/> <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/> <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/> <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS"/> </p><p> <img src="https://skillicons.dev/icons?i=react" width="50" title="React Native"/> <img src="https://skillicons.dev/icons?i=expo" width="50" title="Expo"/> </p><p> <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/> <img src="https://skillicons.dev/icons?i=express" width="50" title="Express"/> </p><p> <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=supabase" width="50" title="Supabase"/> </p><p> <img src="https://skillicons.dev/icons?i=cypress" width="50" title="Cypress"/> <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/> </p>
 
 
 🚀 Projetos em Destaque
