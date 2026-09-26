@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center"> <strong>Full Stack Developer</strong> </p> <p align="center"> Desenvolvedor de software focado na criação de aplicações web e mobile, <br> APIs robustas, integração com bancos de dados e soluções escaláveis. </p> <p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center"> <strong>Full Stack Developer</strong> </p> <p align="center"> Desenvolvedor de software focado na criação de aplicações web e mobile, <br> APIs robustas, integração com bancos de dados e soluções escaláveis. </p> 
 👨‍💻 Sobre mim
 
 Sou Desenvolvedor Full Stack, com experiência no desenvolvimento de aplicações modernas para web e dispositivos móveis.
@@ -44,29 +44,7 @@ Desenvolvimento de soluções escaláveis e manuteníveis
 <p> <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=supabase" width="50" title="Supabase"/> </p>
 🧪 Testing, Tools & Workflow
 <p> <img src="https://skillicons.dev/icons?i=cypress" width="50" title="Cypress"/> <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/> </p>
-🏗️ Desenvolvimento Full Stack
 
-Minha atuação envolve diferentes camadas do desenvolvimento de software:
-
-┌──────────────────────────────────────────────┐
-│                  FRONTEND                    │
-│        React • HTML • CSS • Tailwind         │
-├──────────────────────────────────────────────┤
-│                   MOBILE                     │
-│            React Native • Expo               │
-├──────────────────────────────────────────────┤
-│                   BACKEND                    │
-│             Node.js • Express                │
-├──────────────────────────────────────────────┤
-│                    APIs                      │
-│              REST • Postman                  │
-├──────────────────────────────────────────────┤
-│                  DATABASE                    │
-│        PostgreSQL • Supabase                 │
-├──────────────────────────────────────────────┤
-│              QUALITY & TOOLS                 │
-│       Cypress • Git • GitHub • Testing       │
-└──────────────────────────────────────────────┘
 
 📌 Perfil Técnico
 name: Gustavo Camargo
@@ -151,4 +129,4 @@ Manutenção e evolução
 Busco desenvolver soluções pensando não apenas no funcionamento da aplicação, mas também em organização do código, experiência do usuário, escalabilidade e manutenção a longo prazo.
 
 🌐 Vamos nos conectar?
-<p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> <p align="center"> <i>Transformando ideias em software, uma solução de cada vez.</i> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=120&section=footer"/>
+<p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="50" title="Gmail"/> </a> <a href="https://github.com/GustavoCamargo0" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> </a> </p>
