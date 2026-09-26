@@ -23,19 +23,19 @@ Tenho interesse em transformar ideias em aplicações funcionais e continuar evo
 
 🧪 Testes de aplicações
 
-🛠️ Tecnologias & Ferramentas
-💻 Linguagens
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" /> </p>
+🛠️ Tech Stack
+💻 Languages
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=javascript" width="45" /> <br> <strong>JavaScript</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=python" width="45" /> <br> <strong>Python</strong> </td> </tr> </table>
 🌐 Frontend
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" /> </p>
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=html" width="45" /> <br> <strong>HTML5</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=css" width="45" /> <br> <strong>CSS3</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="45" /> <br> <strong>React</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> <br> <strong>Tailwind CSS</strong> </td> </tr> </table>
 📱 Mobile
-<p> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=ffffff" /> </p>
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="45" /> <br> <strong>React Native</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=expo" width="45" /> <br> <strong>Expo</strong> </td> </tr> </table>
 ⚙️ Backend & APIs
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" /> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=ffffff" /> </p>
-🗄️ Banco de Dados
-<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000000" /> </p>
-🧪 Testes & Ferramentas
-<p> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" /> </p>
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nodejs" width="45" /> <br> <strong>Node.js</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=express" width="45" /> <br> <strong>Express</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postman" width="45" /> <br> <strong>Postman</strong> </td> </tr> </table>
+🗄️ Database
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postgres" width="45" /> <br> <strong>PostgreSQL</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=supabase" width="45" /> <br> <strong>Supabase</strong> </td> </tr> </table>
+🧪 Testing & Tools
+<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=cypress" width="45" /> <br> <strong>Cypress</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=git" width="45" /> <br> <strong>Git</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=github" width="45" /> <br> <strong>GitHub</strong> </td> </tr> </table>
 📌 Perfil Técnico
 name: Gustavo Camargo
 role: Systems Development Student
