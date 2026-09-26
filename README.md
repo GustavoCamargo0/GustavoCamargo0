@@ -1,90 +1,98 @@
-<!-- Banner topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo%20👨‍💻&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+Hi, I'm Gustavo Camargo
 
-<p align="center">
-  - Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI</strong><br>
-  - Apaixonado por tecnologia, programação e por criar soluções que realmente fazem a diferença.<br>
-  - Sempre aprendendo e explorando novas linguagens, frameworks e boas práticas de desenvolvimento.
-</p>
+I'm a Systems Development student at SENAI, focused on building web and mobile applications.
 
----
+I'm currently developing my skills in JavaScript, React, React Native, Node.js and relational databases, with an interest in software architecture, APIs and application development.
 
-### 🌟 Sobre mim
-- 💡 Amo transformar ideias em código e ver projetos ganhando vida.
-- 🔭 Atualmente estudando **JavaScript**, **React Native**, **Node.js** e **Banco de Dados**.
-- 🧠 Busco constantemente melhorar minhas habilidades e aprender novas tecnologias.
-- 💬 Gosto de trabalhar em equipe, compartilhar conhecimento e colaborar em projetos interessantes.
+I enjoy turning ideas into functional software and continuously improving my knowledge through practical projects.
 
----
+What I'm working with
 
-<h2 align="center">🛠️ Tech Stack</h2>
+Web application development
 
-<h3>🧠 Linguagens</h3>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-</p>
+Mobile application development
 
-<h3>🖥️ Front-end</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff" />
-</p>
+REST API development
 
-<h3>📱 Mobile</h3>
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff" />
-</p>
+Database integration
 
-<h3>⚙️ Back-end</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=fff" />
-</p>
+Software testing
 
-<h3>🗄️ Banco de Dados</h3>
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-</p>
+Version control and collaborative development
 
-<h3>🧪 Testes</h3>
-<p>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff" />
-</p>
+My Stack
+Languages
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" /> </p>
+Frontend
+<p> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" /> </p>
+Mobile
+<p> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=ffffff" /> </p>
+Backend & APIs
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff" /> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=ffffff" /> </p>
+Database
+<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000000" /> </p>
+Tools & Testing
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=ffffff" /> </p>
+My Specs
+apiVersion: v1
+kind: Developer
 
-<h3>🛠️ Ferramentas</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" />
-</p>
+metadata:
+  name: Gustavo Camargo
+  role: Systems Development Student
+  institution: SENAI
 
----
-### 🚀 Projetos em destaque
+spec:
+  focus:
+    - Web Development
+    - Mobile Development
+    - Backend Development
+    - REST APIs
+    - Database Integration
 
-- 🕹️ [**Cosmic Battle**](https://github.com/GustavoCamargo0/jogo-style-space-invaders) — Jogo Estilo Space invaders
-- 🎶 [**AppMusic**](https://github.com/GustavoCamargo0/AppMusic) — App de Streaming de musicas
-- 🌐 [**AppTicketCantina**](https://github.com/GustavoCamargo0/AppTicketCantina) — Desenvolvido em React Native, App de cantina de escola com banco de dados
+  currently_learning:
+    - JavaScript
+    - React
+    - React Native
+    - Node.js
+    - PostgreSQL
 
+  interests:
+    - Software Development
+    - Application Architecture
+    - APIs
+    - Open Source
+    - Technology
 
----
-### 🌐 Onde me encontrar
+  tools:
+    - Git
+    - GitHub
+    - Postman
+    - Cypress
+    - Supabase
 
-<p align="center">
-  <a href="mailto:gustavo.fscamargo08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-</p>
+Featured Projects
+Cosmic Battle
 
----
-<!-- Rodapé animado -->
+Space Invaders-inspired game developed as a programming project.
+
+Repository
+
+AppMusic
+
+Mobile application focused on music streaming and management.
+
+Repository
+
+AppTicketCantina
+
+Mobile application for managing orders in a school cafeteria, developed with React Native and database integration.
+
+Repository
+
+GitHub Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true" alt="GitHub Activity Graph" /> </p>
+Connect With Me
+<p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" /> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /> </a> </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=120&section=footer"/>
