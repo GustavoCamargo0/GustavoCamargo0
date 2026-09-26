@@ -40,7 +40,6 @@ Desenvolvimento de soluções escaláveis e manuteníveis
   <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="50" title="Expo"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" width="50" title="Express"/>
   <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/>
