@@ -25,17 +25,17 @@ Tenho interesse em transformar ideias em aplicações funcionais e continuar evo
 
 🛠️ Tech Stack
 💻 Languages
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=javascript" width="45" /> <br> <strong>JavaScript</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=python" width="45" /> <br> <strong>Python</strong> </td> </tr> </table>
+<p> <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=python" width="50" title="Python" /> </p>
 🌐 Frontend
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=html" width="45" /> <br> <strong>HTML5</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=css" width="45" /> <br> <strong>CSS3</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="45" /> <br> <strong>React</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> <br> <strong>Tailwind CSS</strong> </td> </tr> </table>
+<p> <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3" /> <img src="https://skillicons.dev/icons?i=react" width="50" title="React" /> <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" /> </p>
 📱 Mobile
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=react" width="45" /> <br> <strong>React Native</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=expo" width="45" /> <br> <strong>Expo</strong> </td> </tr> </table>
+<p> <img src="https://skillicons.dev/icons?i=react" width="50" title="React Native" /> <img src="https://skillicons.dev/icons?i=expo" width="50" title="Expo" /> </p>
 ⚙️ Backend & APIs
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nodejs" width="45" /> <br> <strong>Node.js</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=express" width="45" /> <br> <strong>Express</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postman" width="45" /> <br> <strong>Postman</strong> </td> </tr> </table>
+<p> <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" width="50" title="Express" /> </p>
 🗄️ Database
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postgres" width="45" /> <br> <strong>PostgreSQL</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=supabase" width="45" /> <br> <strong>Supabase</strong> </td> </tr> </table>
+<p> <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=supabase" width="50" title="Supabase" /> </p>
 🧪 Testing & Tools
-<table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=cypress" width="45" /> <br> <strong>Cypress</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=git" width="45" /> <br> <strong>Git</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=github" width="45" /> <br> <strong>GitHub</strong> </td> </tr> </table>
+<p> <img src="https://skillicons.dev/icons?i=cypress" width="50" title="Cypress" /> <img src="https://skillicons.dev/icons?i=git" width="50" title="Git" /> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub" /> <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman" /> </p>
 📌 Perfil Técnico
 name: Gustavo Camargo
 role: Systems Development Student
