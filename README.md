@@ -1,95 +1,154 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center"> <strong>Desenvolvedor de Sistemas em formação</strong> </p> <p align="center"> Estudante de Desenvolvimento de Sistemas no SENAI, interessado em desenvolvimento <br> web, mobile, backend e criação de soluções utilizando tecnologia. </p> <p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Gustavo%20Camargo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <h1 align="center">Olá, eu sou o Gustavo 👋</h1> <p align="center"> <strong>Full Stack Developer</strong> </p> <p align="center"> Desenvolvedor de software focado na criação de aplicações web e mobile, <br> APIs robustas, integração com bancos de dados e soluções escaláveis. </p> <p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 👨‍💻 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI, com foco em aprender e desenvolver aplicações modernas para web e dispositivos móveis.
+Sou Desenvolvedor Full Stack, com experiência no desenvolvimento de aplicações modernas para web e dispositivos móveis.
 
-Atualmente, venho aprofundando meus conhecimentos principalmente no ecossistema JavaScript, trabalhando com desenvolvimento frontend, aplicações mobile, APIs e integração com bancos de dados.
+Atuo principalmente com o ecossistema JavaScript, desenvolvendo interfaces responsivas, aplicações mobile, APIs REST, integrações com bancos de dados e soluções completas de software.
 
-Tenho interesse em transformar ideias em aplicações funcionais e continuar evoluindo através de projetos práticos.
+Tenho foco em escrever código organizado, escalável e de fácil manutenção, utilizando boas práticas de desenvolvimento, versionamento e testes.
 
-🎯 Atualmente estudando
+Gosto de transformar requisitos e ideias em produtos funcionais, buscando sempre equilibrar experiência do usuário, performance, segurança e qualidade de código.
 
-⚡ JavaScript
+🚀 Especialidades
 
-⚛️ React
+Desenvolvimento Full Stack
 
-📱 React Native
+Desenvolvimento de aplicações Web
 
-🟢 Node.js
+Desenvolvimento Mobile
 
-🗄️ PostgreSQL
+Construção e integração de APIs REST
 
-🔌 APIs REST
+Integração com bancos de dados relacionais
 
-🧪 Testes de aplicações
+Arquitetura e organização de aplicações
+
+Testes automatizados
+
+Controle de versão e Git
+
+Integração entre frontend, backend e serviços externos
+
+Desenvolvimento de soluções escaláveis e manuteníveis
 
 🛠️ Tech Stack
 💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=python" width="50" title="Python" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=javascript" width="50" title="JavaScript"/> <img src="https://skillicons.dev/icons?i=python" width="50" title="Python"/> </p>
 🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3" /> <img src="https://skillicons.dev/icons?i=react" width="50" title="React" /> <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html" width="50" title="HTML5"/> <img src="https://skillicons.dev/icons?i=css" width="50" title="CSS3"/> <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/> <img src="https://skillicons.dev/icons?i=tailwind" width="50" title="Tailwind CSS"/> </p>
 📱 Mobile
-<p> <img src="https://skillicons.dev/icons?i=react" width="50" title="React Native" /> <img src="https://skillicons.dev/icons?i=expo" width="50" title="Expo" /> </p>
-⚙️ Backend & APIs
-<p> <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" width="50" title="Express" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=supabase" width="50" title="Supabase" /> </p>
-🧪 Testing & Tools
-<p> <img src="https://skillicons.dev/icons?i=cypress" width="50" title="Cypress" /> <img src="https://skillicons.dev/icons?i=git" width="50" title="Git" /> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub" /> <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react" width="50" title="React Native"/> <img src="https://skillicons.dev/icons?i=expo" width="50" title="Expo"/> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs" width="50" title="Node.js"/> <img src="https://skillicons.dev/icons?i=express" width="50" title="Express"/> </p>
+🗄️ Database & Backend Services
+<p> <img src="https://skillicons.dev/icons?i=postgres" width="50" title="PostgreSQL"/> <img src="https://skillicons.dev/icons?i=supabase" width="50" title="Supabase"/> </p>
+🧪 Testing, Tools & Workflow
+<p> <img src="https://skillicons.dev/icons?i=cypress" width="50" title="Cypress"/> <img src="https://skillicons.dev/icons?i=git" width="50" title="Git"/> <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub"/> <img src="https://skillicons.dev/icons?i=postman" width="50" title="Postman"/> </p>
+🏗️ Desenvolvimento Full Stack
+
+Minha atuação envolve diferentes camadas do desenvolvimento de software:
+
+┌──────────────────────────────────────────────┐
+│                  FRONTEND                    │
+│        React • HTML • CSS • Tailwind         │
+├──────────────────────────────────────────────┤
+│                   MOBILE                     │
+│            React Native • Expo               │
+├──────────────────────────────────────────────┤
+│                   BACKEND                    │
+│             Node.js • Express                │
+├──────────────────────────────────────────────┤
+│                    APIs                      │
+│              REST • Postman                  │
+├──────────────────────────────────────────────┤
+│                  DATABASE                    │
+│        PostgreSQL • Supabase                 │
+├──────────────────────────────────────────────┤
+│              QUALITY & TOOLS                 │
+│       Cypress • Git • GitHub • Testing       │
+└──────────────────────────────────────────────┘
+
 📌 Perfil Técnico
 name: Gustavo Camargo
-role: Systems Development Student
-education: SENAI
+role: Full Stack Developer
 
-focus:
+specialization:
   - Web Development
   - Mobile Development
   - Backend Development
   - REST APIs
   - Database Integration
+  - Software Architecture
+  - Automated Testing
 
-currently_learning:
+frontend:
   - JavaScript
   - React
-  - React Native
-  - Node.js
-  - PostgreSQL
+  - HTML5
+  - CSS3
+  - Tailwind CSS
 
-interests:
-  - Software Development
-  - Application Architecture
-  - APIs
-  - Technology
+mobile:
+  - React Native
+  - Expo
+
+backend:
+  - Node.js
+  - Express
+
+database:
+  - PostgreSQL
+  - Supabase
+
+testing:
+  - Cypress
+  - API Testing
+
+tools:
+  - Git
+  - GitHub
+  - Postman
 
 🚀 Projetos em Destaque
 <table> <tr> <td width="33%" valign="top">
 🕹️ Cosmic Battle
 
-Jogo inspirado em Space Invaders, desenvolvido como projeto de programação.
+Jogo inspirado em Space Invaders, desenvolvido com foco em lógica de programação, interação e desenvolvimento de uma aplicação completa.
 
-<a href="https://github.com/GustavoCamargo0/jogo-style-space-invaders"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000" /> </a>
-</td>
-
-<td width="33%" valign="top">
-
+<br> <a href="https://github.com/GustavoCamargo0/jogo-style-space-invaders"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000"/> </a> </td> <td width="33%" valign="top">
 🎵 AppMusic
 
-Aplicação mobile voltada para reprodução e gerenciamento de músicas.
+Aplicação mobile desenvolvida para reprodução e gerenciamento de músicas, explorando desenvolvimento de interfaces e funcionalidades para dispositivos móveis.
 
-<a href="https://github.com/GustavoCamargo0/AppMusic"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000" /> </a>
-</td>
-
-<td width="33%" valign="top">
-
+<br> <a href="https://github.com/GustavoCamargo0/AppMusic"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000"/> </a> </td> <td width="33%" valign="top">
 🎫 AppTicketCantina
 
-Aplicação mobile para gerenciamento de pedidos em uma cantina escolar.
+Aplicação mobile voltada ao gerenciamento de pedidos em uma cantina escolar, trabalhando com fluxo de pedidos e organização de dados.
 
-<a href="https://github.com/GustavoCamargo0/AppTicketCantina"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000" /> </a>
-</td>
-
-</tr> </table>
+<br> <a href="https://github.com/GustavoCamargo0/AppTicketCantina"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000"/> </a> </td> </tr> </table>
 📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCamargo0&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph"/> </p>
+💡 Como eu trabalho
+Ideia / Requisito
+       ↓
+Análise da solução
+       ↓
+Arquitetura
+       ↓
+Desenvolvimento
+       ↓
+Integração Frontend + Backend
+       ↓
+Banco de Dados
+       ↓
+Testes
+       ↓
+Deploy
+       ↓
+Manutenção e evolução
+
+
+Busco desenvolver soluções pensando não apenas no funcionamento da aplicação, mas também em organização do código, experiência do usuário, escalabilidade e manutenção a longo prazo.
+
 🌐 Vamos nos conectar?
-<p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <i>Construindo projetos, aprendendo continuamente e evoluindo como desenvolvedor.</i> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=120&section=footer"/>
+<p align="center"> <a href="mailto:gustavo.fscamargo08@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gustavo-camargo-2a617a386/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> <p align="center"> <i>Transformando ideias em software, uma solução de cada vez.</i> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=120&section=footer"/>
