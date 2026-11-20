@@ -23,8 +23,6 @@ Integração com bancos de dados relacionais
 
 Arquitetura e organização de aplicações
 
-Testes automatizados
-
 Controle de versão e Git
 
 Integração entre frontend, backend e serviços externos
@@ -54,27 +52,6 @@ Desenvolvimento de soluções escaláveis e manuteníveis
   <img src="https://skillicons.dev/icons?i=figma" width="50" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="50" title="Vercel"/>
 </p>
-
-
-
-
-🚀 Projetos em Destaque
-<table> <tr> <td width="33%" valign="top">
-🕹️ Cosmic Battle
-
-Jogo inspirado em Space Invaders, desenvolvido com foco em lógica de programação, interação e desenvolvimento de uma aplicação completa.
-
-<br> <a href="https://github.com/GustavoCamargo0/jogo-style-space-invaders"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000"/> </a> </td> <td width="33%" valign="top">
-🎵 AppMusic
-
-Aplicação mobile desenvolvida para reprodução e gerenciamento de músicas, explorando desenvolvimento de interfaces e funcionalidades para dispositivos móveis.
-
-<br> <a href="https://github.com/GustavoCamargo0/AppMusic"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000"/> </a> </td> <td width="33%" valign="top">
-🎫 AppTicketCantina
-
-Aplicação mobile voltada ao gerenciamento de pedidos em uma cantina escolar, trabalhando com fluxo de pedidos e organização de dados.
-
-<br> <a href="https://github.com/GustavoCamargo0/AppTicketCantina"> <img src="https://img.shields.io/badge/Ver%20Projeto-00FF7F?style=for-the-badge&logo=github&logoColor=000000"/> </a> </td> </tr> </table>
 
 
 🌐 Vamos nos conectar?
